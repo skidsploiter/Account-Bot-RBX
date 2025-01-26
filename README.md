@@ -1,7 +1,7 @@
 # Account Bot RBX
 
 > [!WARNING]
-> This is built only for educational purposes. I am not responsible for any misuses.
+> This is built **only for educational purposes**. I am not responsible for any misuses.
 
 A simple, open-sourced account generator written in Python.
 
