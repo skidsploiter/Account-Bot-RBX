@@ -3,7 +3,10 @@
 > [!WARNING]
 > This is built **only for educational purposes**. I am not responsible for any misuses.
 
-A simple, open-sourced account generator written in Python.
+> [!CAUTION]
+> This is **in development** and is **NOT stable**. This does **NOT** bypass CAPTCHA.
+
+A simple, open-sourced roblox account generator written in Python.
 
 ## Features
 - Automates account generation for Roblox.
