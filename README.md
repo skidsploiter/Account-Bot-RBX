@@ -29,7 +29,7 @@ A simple, open-sourced roblox account generator written in Python.
    ```bash
    pip install selenium faker colorama requests
    ```
-3. Ensure Chromedriver is installed and added to your system's PATH.
+3. Ensure Chromedriver is installed and added to the same folder.
 
 ## Usage
 1. Run the script:
