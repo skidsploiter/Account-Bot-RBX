@@ -1,4 +1,4 @@
-# Account Bot RBX
+# HitlerAccGen | Star for updates ⭐
 
 > [!WARNING]
 > This is built **only for educational purposes**. I am not responsible for any misuses.
